@@ -8,7 +8,7 @@ The clock updates every second using the system time and rotates the clock hands
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/clock-preview-placeholder.png" 
+  <img src="https://github.com/user-attachments/assets/2d176cc9-5768-4908-8af1-05a24b7b8bd3" 
        alt="JavaScript Clock Preview" 
        width="900" />
 </p>
